@@ -7,6 +7,10 @@ A browser extension to clear browsing data. By default users have full contorl, 
 - IT can set defaults
 - IT can force settings
 
+![Screenshot](/../Screemshots/ClearBrowsingData_1.png?raw=true)
+![Screenshot](/../Screemshots/ClearBrowsingData_2.png?raw=true)
+![Screenshot](/../Screemshots/ClearBrowsingData_3.png?raw=true)
+
 ## GPO Options
 ``` JSON
 {
