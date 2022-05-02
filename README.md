@@ -74,9 +74,9 @@ A browser extension to clear browsing data. By default users have full control, 
     },
     "Exclusions": {
         "Setting": [
-            "https://google.com",
-            "https://msn.com",
-            "https://yahoo.com"
+            "google.com",
+            "msn.com",
+            "yahoo.com"
         ],
         "AllowUserOverride": false
     }
