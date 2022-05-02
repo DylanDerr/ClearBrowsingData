@@ -6,6 +6,8 @@ A browser extension to clear browsing data. By default users have full control, 
 - Clears browsing data on startup or when the extension icon is clicked.
 - IT admins can set defaults via GPO.
 - IT admins can force settings via GPO.
+- Supply a list of domains to exclude from clearing.
+- IT forced exclusions.
 
 ![Screenshot](/../Screenshots/ClearBrowsingData_1.png?raw=true)
 ![Screenshot](/../Screenshots/ClearBrowsingData_2.png?raw=true)
