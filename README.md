@@ -11,7 +11,7 @@ A browser extension to clear browsing data. By default users have full contorl, 
 ![Screenshot](/../Screenshots/ClearBrowsingData_2.png?raw=true)
 ![Screenshot](/../Screenshots/ClearBrowsingData_3.png?raw=true)
 
-## GPO Options
+## GPO JSON
 ``` JSON
 {
     "ClearOnStartup": {
